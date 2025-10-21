@@ -1,2 +1,6 @@
-# Finance-Data-Dashboard
-This dashboard provides an Executive Finance Summary Report, offering a high-level, interactive view of the company's financial health across profitability, time, geography, and sales segments. Designed for leadership, this report enables rapid assessment of key financial drivers and performance trends.
+# Executive finance summary report-Dashboard
+## Project Summary
+This project involves the creation and analysis of an executive-level finance dashboard designed to monitor key financial performance indicators (KPIs) over time, by product, and by geography. The dashboard focuses on two primary metrics: Sum of Profit and Sum of Sales. The analysis period spans across 2013 and 2014, with drill-down capability by Year, Quarter, Month, and Day. The primary objective is to identify profitable trends, best-selling segments/products, and key regional contributors.
+
+## data Used
+-<a href=""
